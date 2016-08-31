@@ -2,7 +2,8 @@ package helloworld;
 
 /**
  *
- * @author Kurt
+ * @author Mr. Tholking
+ * @class AP CSA
  */
 public class HelloWorld {
 
@@ -12,5 +13,5 @@ public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello World");
     }
-    
+
 }
